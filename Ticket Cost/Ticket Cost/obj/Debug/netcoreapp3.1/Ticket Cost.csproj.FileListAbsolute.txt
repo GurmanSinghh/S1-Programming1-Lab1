@@ -1,0 +1,14 @@
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.AssemblyInfoInputs.cache
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.AssemblyInfo.cs
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.csproj.CoreCompileInputs.cache
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.exe
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.deps.json
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.runtimeconfig.json
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.runtimeconfig.dev.json
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.dll
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\bin\Debug\netcoreapp3.1\Ticket Cost.pdb
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.dll
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.pdb
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.genruntimeconfig.cache
+D:\Learning To Code\C#\Projects\Ticket Cost\Ticket Cost\obj\Debug\netcoreapp3.1\Ticket Cost.csproj.AssemblyReference.cache

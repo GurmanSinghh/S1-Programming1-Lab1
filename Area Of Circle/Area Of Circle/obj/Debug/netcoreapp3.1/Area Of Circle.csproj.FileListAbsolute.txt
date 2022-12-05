@@ -1,0 +1,14 @@
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.csproj.AssemblyReference.cache
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.AssemblyInfoInputs.cache
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.AssemblyInfo.cs
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.csproj.CoreCompileInputs.cache
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.exe
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.deps.json
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.runtimeconfig.json
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.runtimeconfig.dev.json
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.dll
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\bin\Debug\netcoreapp3.1\Area Of Circle.pdb
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.dll
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.pdb
+D:\Learning To Code\C#\Projects\Area Of Circle\Area Of Circle\obj\Debug\netcoreapp3.1\Area Of Circle.genruntimeconfig.cache
